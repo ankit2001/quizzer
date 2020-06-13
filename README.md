@@ -1,6 +1,6 @@
 # quizzer
 
-A new Flutter project.
+Quizzer is a basic quiz app made through flutter.
 
 ## Getting Started
 
@@ -14,3 +14,11 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+# UI Components
+### Starter
+<img src = "images/Quiz.jpeg" alt = "Starter Kit" width = 400 height = 650>
+
+### Resetting and Output
+<img src = "images/Finish.jpeg" alt = "Final Output" width = 400 height = 650>
+
